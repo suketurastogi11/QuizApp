@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="quiz_heading">Android Quiz</string>
+
+    <string name="instruction">Instructions: \n For each Correct answer +1 Point \n For each
+        Incorrect or Unattended answer -1 Point  </string>
+
+    <string name="question_one">Ques 1. Who owns the Android platform ?</string>
+
+    <string name="question_one_option_one">A. Oracle Technology</string>
+    <string name="question_one_option_two">B. Dalvik</string>
+    <string name="question_one_option_three">C. Open Handset Alliance</string>
+    <string name="question_one_option_four">D. Google</string>
+
+    <string name="question_two">Ques 2. When did Google purchase Android ?</string>
+
+    <string name="question_two_option_one">A. 2007</string>
+    <string name="question_two_option_two">B. 2005</string>
+    <string name="question_two_option_three">C. 2008</string>
+    <string name="question_two_option_four">D. 2010</string>
+
+    <string name="question_three">Ques 3. What operating system is used as the base of the Android
+        stack ?</string>
+
+    <string name="question_three_option_one">A. Linux</string>
+    <string name="question_three_option_two">B. Windows</string>
+    <string name="question_three_option_three">C. Java</string>
+    <string name="question_three_option_four">D. XML</string>
+
+    <string name="question_four">Ques 4. Which of these are nickname of Android versions ? \n
+        #Select Multiple Options</string>
+
+    <string name="question_four_option_one">A. Cupcake</string>
+    <string name="question_four_option_two">B. Gingerbread</string>
+    <string name="question_four_option_three">C. Honeycomb</string>
+    <string name="question_four_option_four">D. Muffin</string>
+
+    <string name="question_five">Ques 5. What is the full form of SDK ?</string>
+
+    <string name="submit_button">Submit</string>
+
+</resources>
